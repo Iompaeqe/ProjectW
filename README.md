@@ -18,8 +18,8 @@ The goal of this document is to showcase key gameplay systems, architectural dec
 
 ## Showcase
 
-- 🎥 [Menu and Lobby](https://youtu.be/Z8bkf3qagkI)  
-- 🎮 [Gameplay Showcase](https://youtu.be/b00fYstrt7s)  
+- 🎥 [Menu and Lobby]([https://youtu.be/Z8bkf3qagkI](https://youtu.be/Z8bkf3aqgkI))  
+- 🎮 [Gameplay Showcase]([[https://youtu.be/b00fYstrt7s](https://www.youtube.com/watch?v=b0OfYstrt7s)](https://youtu.be/b0OfYstrt7s))  
 
 ---
 
